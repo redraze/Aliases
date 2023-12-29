@@ -1,0 +1,11 @@
+:: comments out line
+:: ...
+
+:: turns off printing to terminal
+echo off
+
+:: prints new line
+echo.
+
+:: reference executable, then allow * number of arguments to be passed to executable
+[PATH TO EXECUTABLE] %*
