@@ -1,7 +1,7 @@
-A collection of linux commands that I like to have access to on the Window's cmd terminal.
+Provides a collection of linux commands to the Window's cmd terminal.
 
 ## Installation Instructions
-To use these batch scripts in the command terminal the location of the file that contains them must first be added to the users' path environmental variables:
+To use these batch scripts in a Windows command terminal, the location of the file that contains them must first be added to the users' path environmental variables:
 
 1)	open start menu and search for "edit environment variables for your account"
 1)	navigate to and open the editing window for the "Path" variable
