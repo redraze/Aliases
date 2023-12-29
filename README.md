@@ -1,4 +1,3 @@
-# About
 A collection of linux commands that I like to have access to on the Window's cmd terminal.
 
 ## Installation Instructions
