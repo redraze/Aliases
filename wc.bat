@@ -1,0 +1,1 @@
+type %* | find /c /v ""
